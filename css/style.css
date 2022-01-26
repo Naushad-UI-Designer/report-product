@@ -1,0 +1,92 @@
+/**
+ * Ksolves
+ *
+ * @category  Ksolves
+ * @package   Ksolves_MultivendorMarketplace
+ * @author    Ksolves Team
+ * @copyright Copyright (c) Ksolves Software Private Limited (https://www.ksolves.com/)
+ * @license   https://store.ksolves.com/magento-license
+ */
+ 
+body {
+	height: 100%;
+	background-color: #fff;
+	line-height: 25px;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: normal;
+	visibility: visible;
+	font-family: 'Poppins', sans-serif;
+	position: relative;
+}
+.ks-seller-report{
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+    border-radius: 10px;
+    width: 270px;
+}
+.ks-seller-report-banner img {
+    width: 270px;
+    border-radius: 10px;
+    height: 112px;
+}
+.ks-logo-section {
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+.ks-circle-logo-area {
+    width: 72.61px;
+    height: 72.05px;
+    border-radius: 50px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    margin-top: -40px;
+    position: relative;
+    text-align: center;
+}
+.ks-circle-logo-area img {
+    text-align: center;
+    margin-top: 25px;
+    width: 58.57px;
+    height: 16.05px;
+}
+.ks-seller-report .ks-heart {
+    margin-left: auto;
+    width: fit-content;
+    margin-right: 20px;
+    margin-top: -25px;
+}
+.ks-seller-report .ks-heart img {
+    width: 16px;
+    height: 15px;
+}
+.ks-seller-report-text p {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.3px;
+    text-transform: capitalize;
+    color: #696C6D;
+    text-align: center;
+    padding: 15px 10px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.ks-seller-report-footer {
+    display: flex;
+    justify-content: space-around;
+    border-top: 1px solid #E5E5E5;
+    padding: 5px;
+}
+.ks-seller-report-footer img {
+    vertical-align: middle;
+}
+.ks-seller-report-footer span {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    color: #5D5D5D;
+}
